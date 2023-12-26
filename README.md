@@ -2,7 +2,9 @@
 # BlissFit 
 
 • Effortlessly explore exercises targeting specific body parts and equipment with ease.
+
 • Access step-by-step guides with YouTube recommendations for effective workouts.
+
 • Leverage OpenCV technology, ensuring an impressive 85% accuracy for real-time posture feedback during exercises.
 
 ## Screenshots
